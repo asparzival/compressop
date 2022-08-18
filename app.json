@@ -4,7 +4,7 @@
     "logo": "https://telegra.ph/file/2331238b6ea8e29469ed4.jpg",
     "keywords": ["Telegram","python", "Video","Compressor","Encoder"],
     "repository": "https://github.com/asparzival/compressop",
-    "success_url": "https://t.me/sandapodalama",
+    "success_url": "https://t.me/BotzHub",
     "stack": "container",
     "env": {
         "APP_ID": {
